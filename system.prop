@@ -3,3 +3,6 @@ persist.vendor.camera.perfcapture=1
 
 # Recovery
 ro.recovery.ui.margin_height=87
+
+# FP
+ro.build.fingerprint=google/redfin/redfin:11/RQ2A.210505.003/7255357:user/release-keys
