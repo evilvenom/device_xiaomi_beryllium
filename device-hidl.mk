@@ -42,8 +42,9 @@ PRODUCT_PACKAGES += \
 # NeuralNetworks
 PRODUCT_PACKAGES += \
     android.hardware.neuralnetworks@1.1.vendor \
-    android.hardware.neuralnetworks@1.0.vendor
-
+    android.hardware.neuralnetworks@1.0.vendor \
+    android.hardware.neuralnetworks@1.2.vendor
+ 
 # RIL
 PRODUCT_PACKAGES += \
     android.system.net.netd@1.1.vendor \
