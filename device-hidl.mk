@@ -47,7 +47,8 @@ PRODUCT_PACKAGES += \
     android.hardware.neuralnetworks@1.0.vendor \
     android.hardware.neuralnetworks@1.1.vendor \
     android.hardware.neuralnetworks@1.2.vendor \
-    android.hardware.neuralnetworks@1.3.vendor
+    android.hardware.neuralnetworks@1.3.vendor \
+    android.hardware.neuralnetworks@1.2-service-qti
 
  # Health
 PRODUCT_PACKAGES += \
@@ -66,4 +67,5 @@ PRODUCT_PACKAGES += \
     android.hardware.radio.config@1.2.vendor \
     android.hardware.secure_element@1.2.vendor \
     android.hardware.secure_element@1.1.vendor \
-    android.hardware.secure_element@1.0.vendor
+    android.hardware.secure_element@1.0.vendor \
+    android.hidl.allocator@1.0.vendor
