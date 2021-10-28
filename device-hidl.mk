@@ -69,3 +69,7 @@ PRODUCT_PACKAGES += \
     android.hardware.secure_element@1.1.vendor \
     android.hardware.secure_element@1.0.vendor \
     android.hidl.allocator@1.0.vendor
+
+# Sensor
+PRODUCT_PACKAGES += \
+    android.frameworks.sensorservice@1.0.vendor
