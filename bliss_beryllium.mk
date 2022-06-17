@@ -21,10 +21,10 @@ PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_SYSTEM_NAME := beryllium
 
-BUILD_FINGERPRINT := "google/redfin/redfin:12/SP2A.220305.012/8177914:user/release-keys"
+BUILD_FINGERPRINT := "google/redfin/redfin:12/SQ3A.220605.009.A1/8643238:user/release-keys"
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="redfin-user 12 SP2A.220305.012 8177914 release-keys" \
+    PRIVATE_BUILD_DESC="redfin-user 12 SQ3A.220605.009.A1 8643238 release-keys" \
     TARGET_PRODUCT="beryllium"
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
